@@ -227,6 +227,26 @@ Not Eligible
 Next Action: Clear all active backlogs.
 
 Status: Passed
+---
+
+### Test Case 4 — Invalid Graduation Year
+
+Graduation Year:
+
+2024
+
+Expected Result:
+
+```text
+Not Eligible
+Next Action: Check the eligible graduation-year criteria.
+
+Actual Result:
+
+Not Eligible
+Next Action: Check the eligible graduation-year criteria.
+
+Status: Passed
 
 
 ---
